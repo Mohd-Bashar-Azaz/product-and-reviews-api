@@ -1,4 +1,4 @@
-<p>While test the api through postman make sure to add Accept|application/json and Content-Type|application/json in the headers(also untick the existing Accept)(this is necessary to get the result in Put And Post operations)</p>
+<p>While testing the api through postman make sure to add Accept|application/json and Content-Type|application/json in the headers(also untick the existing Accept)(this is necessary to get the result in Put And Post operations)</p>
 
 
 
