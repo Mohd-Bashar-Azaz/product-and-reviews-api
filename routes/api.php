@@ -18,4 +18,4 @@ Route::group(['prefix'=>'products'],function(){
 
 
 });
-// Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+
