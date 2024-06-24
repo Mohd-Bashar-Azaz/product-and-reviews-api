@@ -1,3 +1,13 @@
+<p>While test the api through postman make sure to add Accept|application/json and Content-Type|application/json in the headers(also untick the existing Accept)(this is necessary to get the result in Put And Post operations)</p>
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
